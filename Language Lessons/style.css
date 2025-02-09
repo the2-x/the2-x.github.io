@@ -1,1 +1,21 @@
-
+html {
+  font-family: "Helvetica", sans-serif;
+}
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.italic {
+  font-family: "Helvetica", sans-serif;
+  font-style: italic;
+}
+del {
+  text-decoration: line-through;
+  background-color: #fbb;
+  color: #555;
+}
+ins {
+  text-decoration: none;
+  background-color: #d4fcbc;
+}
