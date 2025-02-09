@@ -6,8 +6,9 @@ html {
   margin-left: auto;
   margin-right: auto;
 }
-.underline {
-  text-decoration: underline;
+.italic {
+  font-family: "Helvetica", sans-serif;
+  font-style: italic;
 }
 del {
   text-decoration: line-through;
