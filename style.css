@@ -6,6 +6,9 @@ html {
   margin-left: auto;
   margin-right: auto;
 }
+.underline {
+  text-decoration: underline;
+}
 del {
   text-decoration: line-through;
   background-color: #fbb;
