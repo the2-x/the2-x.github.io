@@ -20,6 +20,6 @@ ins {
   background-color: #d4fcbc;
 }
 iFrame {
-  width: 100%;
+  width: auto;
   height: auto;
 }
