@@ -20,7 +20,8 @@ ins {
   background-color: #d4fcbc;
 }
 iframe {
- display: flex; 
- align-items: center; 
+ display: flex;
+ margin: auto;
+ align-items: center;
  justify-content: center;
 }
