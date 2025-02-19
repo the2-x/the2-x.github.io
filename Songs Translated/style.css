@@ -19,7 +19,10 @@ ins {
   text-decoration: none;
   background-color: #d4fcbc;
 }
-iFrame {
+iframe {
   width: auto;
   height: auto;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
