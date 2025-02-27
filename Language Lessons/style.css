@@ -19,3 +19,9 @@ ins {
   text-decoration: none;
   background-color: #d4fcbc;
 }
+iframe {
+ display: flex;
+ margin: auto;
+ align-items: center;
+ justify-content: center;
+}
